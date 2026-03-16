@@ -1,5 +1,5 @@
 ## Selenium: курс от Stepik
 Задания второго модуля
 ```cmd
-    git clone https://github.com/HotelkaWants/selenium_lessons
+   https://github.com/obuZZZa/selenium_lesson.git
 ```
